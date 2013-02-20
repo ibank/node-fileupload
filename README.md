@@ -5,3 +5,6 @@ jade 0.2+
 클라이언트의 multipart upload 요청에 대해 서버에 저장하고 저장한 결과를 다시 보여줌
 
 상세 내용은 http://goo.gl/2eRPt 참조
+
+/tmp, /public/upload
+git clone 으로 설치후 위 두 폴더 생성 필요.

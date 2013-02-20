@@ -7,4 +7,5 @@ jade 0.2+
 상세 내용은 http://goo.gl/2eRPt 참조
 
 /tmp, /public/upload
+
 git clone 으로 설치후 위 두 폴더 생성 필요.
